@@ -1,0 +1,26 @@
+li{
+    display:inline-block;
+}
+nav{
+    background-color: aliceblue;
+}
+#section1{
+    background-image:  url(../Assets/img/slider-1.jpg);
+    background-repeat: no-repeat;  
+    background-size: cover;
+}
+#section2{
+    background-color: #ed564b;  
+}
+#section2 h4{
+color: white;
+}
+#section2 p{
+    color: white;
+}
+#section4{
+    background-color: gray;
+}
+footer{
+    background-color: black;
+}
